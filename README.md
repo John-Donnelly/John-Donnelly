@@ -21,11 +21,11 @@ I design and build native Windows applications, web platforms and systems softwa
 Through **[JAD Apps](https://jadapps.app/)**, I’m building a portfolio of productivity and creative applications alongside shared foundations for settings, recovery, diagnostics and release management. My professional experience also includes data automation, Linux infrastructure commissioning, service monitoring, failure testing and operational handover.
 
 <p>
-  <a href="#featured-products">Featured products</a> ·
-  <a href="#jad-apps-on-github">Organisation repositories</a> ·
-  <a href="#current-work">Current work</a> ·
-  <a href="#selected-engineering">Engineering</a> ·
-  <a href="#lets-talk">Contact</a>
+  <a href="#user-content-featured-products">Featured products</a> ·
+  <a href="#user-content-jad-apps-on-github">Organisation repositories</a> ·
+  <a href="#user-content-current-work">Current work</a> ·
+  <a href="#user-content-selected-engineering">Engineering</a> ·
+  <a href="#user-content-lets-talk">Contact</a>
 </p>
 
 ## Featured products
