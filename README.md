@@ -53,13 +53,13 @@ Through **[JAD Apps](https://jadapps.app/)**, I’m building a portfolio of prod
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SmrtPad</h3>
-      <a href="https://github.com/JAD-Apps/SmrtPad">
-        <img src="https://raw.githubusercontent.com/JAD-Apps/SmrtPad/master/docs/media/smrtpad-ribbon.png" alt="SmrtPad displaying a formatted report in page view beneath its rich-text editing ribbon." width="100%">
+      <h3>StoryArc</h3>
+      <a href="https://github.com/JAD-Apps/StoryArc">
+        <img src="https://raw.githubusercontent.com/JAD-Apps/StoryArc/main/docs/media/storyarc-splash.png" alt="StoryArc’s blue-and-gold app artwork, showing an open book beneath two golden arcs." width="100%">
       </a>
-      <p>Rich-text documents, ribbon editing, tabbed workspaces, macros, document exports and on-device writing assistance.</p>
-      <p><strong>C# · WinUI 3 · .NET</strong></p>
-      <p><a href="https://github.com/JAD-Apps/SmrtPad/releases/latest">Portable release</a> · <a href="https://github.com/JAD-Apps/SmrtPad">Source</a></p>
+      <p>A native Windows audiobook player with chapter navigation, bookmarks, saved playback position, audio effects and optional on-device captions.</p>
+      <p><strong>WinUI 3 · .NET · SQLite</strong></p>
+      <p><a href="https://apps.microsoft.com/detail/9pmrsl2r7jz4">Microsoft Store</a> · <a href="https://github.com/JAD-Apps/StoryArc">Project &amp; support</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>SmrtDoodle</h3>
@@ -73,7 +73,7 @@ Through **[JAD Apps](https://jadapps.app/)**, I’m building a portfolio of prod
   </tr>
 </table>
 
-The desktop editor repositories are source-available under their documented licences. Follow the product links for current downloads, release notes and technical details.
+MarkUp, Inklet and SmrtDoodle publish source under their documented licences. StoryArc’s public repository provides product and support information. Follow the product links for current downloads and technical details.
 
 ## JAD Apps on GitHub
 
@@ -85,7 +85,7 @@ The public **[JAD-Apps organisation](https://github.com/JAD-Apps)** brings toget
 | **[MarkUp Markdown Editor](https://github.com/JAD-Apps/MarkUp-Markdown-Editor)** | Bidirectional Markdown editing and document export. | Source and releases |
 | **[SmrtPad](https://github.com/JAD-Apps/SmrtPad)** | Rich-text editing, macros and local writing assistance. | Source and portable releases |
 | **[SmrtDoodle](https://github.com/JAD-Apps/SmrtDoodle)** | Layered drawing, compositing and image editing. | Source and portable releases |
-| **[StoryArc](https://github.com/JAD-Apps/StoryArc)** | Windows audiobook playback, chapters, bookmarks and optional local captions. | Product and support information; Store release in preparation |
+| **[StoryArc](https://github.com/JAD-Apps/StoryArc)** | Windows audiobook playback, chapters, bookmarks and optional local captions. | Microsoft Store release; product and support information |
 | **[JAD Runner](https://github.com/JAD-Apps/jad-runner)** | Local file-tool execution through HTTP and MCP interfaces. | Documentation and beta downloads |
 | **[AxionBench](https://github.com/JAD-Apps/axionbench)** | An AI-model comparison preview with capability profiles, missing-data visibility and task-cost estimates. | Public source preview using a static data snapshot |
 
@@ -101,7 +101,7 @@ Current work includes application integration and release qualification. The eng
 
 ### StoryArc
 
-**[StoryArc](https://github.com/JAD-Apps/StoryArc)** brings local audiobook playback, chapter navigation, persistent playback state, audio effects and optional on-device captions into a native Windows application. The Microsoft Store release is being prepared.
+**[StoryArc](https://github.com/JAD-Apps/StoryArc)** brings local audiobook playback, chapter navigation, persistent playback state, audio effects and optional on-device captions into a native Windows application. **[Available on the Microsoft Store](https://apps.microsoft.com/detail/9pmrsl2r7jz4).**
 
 ### CSV Compare and Instill
 
