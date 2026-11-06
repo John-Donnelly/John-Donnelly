@@ -55,7 +55,7 @@ Through **[JAD Apps](https://jadapps.app/)**, I’m building a portfolio of prod
     <td width="50%" valign="top">
       <h3>StoryArc</h3>
       <a href="https://github.com/JAD-Apps/StoryArc">
-        <img src="https://raw.githubusercontent.com/JAD-Apps/StoryArc/main/docs/media/storyarc-splash.png" alt="StoryArc’s blue-and-gold app artwork, showing an open book beneath two golden arcs." width="100%">
+        <img src="https://raw.githubusercontent.com/JAD-Apps/StoryArc/main/docs/media/storyarc-now-playing.png" alt="StoryArc’s Now Playing view showing a caption line generated on the PC, the chapter selector and playback controls." width="100%">
       </a>
       <p>A native Windows audiobook player with chapter navigation, bookmarks, saved playback position, audio effects and optional on-device captions.</p>
       <p><strong>WinUI 3 · .NET · SQLite</strong></p>
